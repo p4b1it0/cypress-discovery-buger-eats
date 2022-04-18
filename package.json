@@ -1,0 +1,14 @@
+{
+  "name": "buger-eats-qa",
+  "version": "1.0.0",
+  "description": "Projeto de criação de testes automatizados do curso QA Ninja - Cypress Discovery",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "p4b1it0",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  }
+}
